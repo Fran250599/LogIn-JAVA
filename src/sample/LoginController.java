@@ -13,6 +13,8 @@ public class LoginController {
     public void cancelButtonAction(ActionEvent event){
         Stage stage = (Stage) cancelButton.getScene().getWindow();
         stage.close();
+
+        //Su cara
     }
 
 
